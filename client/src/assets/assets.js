@@ -90,9 +90,9 @@ export const exclusiveOffers = [
 
 // Testimonials Dummy Data
 export const testimonials = [
-    { id: 1, name: "Shivdutt Tiwari", address: "Jabalpur, MP", image: "C:\Users\Nitish Sonkar\HotelListing\client\src\assets\person1.webp", rating: 5, review: "I've used many booking platforms before, but none compare to the personalized experience and attention to detail that QuickStay provides. Their curated selection of hotels is unmatched." },
-    { id: 2, name: "Sheryansh Tiwari", address: "Ghazipur, UP", image: "C:\Users\Nitish Sonkar\HotelListing\client\src\assets\person2.webp", rating: 4, review: "QuickStay exceeded my expectations. The booking process was seamless, and the hotels were absolutely top-notch. Highly recommended!" },
-    { id: 3, name: "Shiksha Vishwakarma", address: "Agra, UP", image: "C:\Users\Nitish Sonkar\HotelListing\client\src\assets\person3.webp", rating: 5, review: "Amazing service! I always find the best luxury accommodations through QuickStay. Their recommendations never disappoint!" }
+    { id: 1, name: "Shivdutt Tiwari", address: "Jabalpur, MP", image: "/person1.webp", rating: 5, review: "I've used many booking platforms before, but none compare to the personalized experience and attention to detail that QuickStay provides. Their curated selection of hotels is unmatched." },
+    { id: 2, name: "Sheryansh Tiwari", address: "Ghazipur, UP", image: "/person2.webp", rating: 4, review: "QuickStay exceeded my expectations. The booking process was seamless, and the hotels were absolutely top-notch. Highly recommended!" },
+    { id: 3, name: "Shiksha Vishwakarma", address: "Agra, UP", image: "/person3.webp", rating: 5, review: "Amazing service! I always find the best luxury accommodations through QuickStay. Their recommendations never disappoint!" }
 ];
 
 // Facility Icon

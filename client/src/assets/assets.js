@@ -31,6 +31,9 @@ import regImage from './regImage.png'
 import exclusiveOfferCardImg1 from "./exclusiveOfferCardImg1.png";
 import exclusiveOfferCardImg2 from "./exclusiveOfferCardImg2.png";
 import exclusiveOfferCardImg3 from "./exclusiveOfferCardImg3.png";
+import person1 from "./person1.webp";
+import person2 from "./person2.webp";
+import person3 from "./person3.webp";   
 import addIcon from "./addIcon.svg";
 import dashboardIcon from "./dashboardIcon.svg";
 import listIcon from "./listIcon.svg";
@@ -90,9 +93,9 @@ export const exclusiveOffers = [
 
 // Testimonials Dummy Data
 export const testimonials = [
-    { id: 1, name: "Shivdutt Tiwari", address: "Jabalpur, MP", image: "/person1.webp", rating: 5, review: "I've used many booking platforms before, but none compare to the personalized experience and attention to detail that QuickStay provides. Their curated selection of hotels is unmatched." },
-    { id: 2, name: "Sheryansh Tiwari", address: "Ghazipur, UP", image: "/person2.webp", rating: 4, review: "QuickStay exceeded my expectations. The booking process was seamless, and the hotels were absolutely top-notch. Highly recommended!" },
-    { id: 3, name: "Shiksha Vishwakarma", address: "Agra, UP", image: "/person3.webp", rating: 5, review: "Amazing service! I always find the best luxury accommodations through QuickStay. Their recommendations never disappoint!" }
+    { id: 1, name: "Shivdutt Tiwari", address: "Jabalpur, MP", image: person1, rating: 5, review: "I've used many booking platforms before, but none compare to the personalized experience and attention to detail that QuickStay provides. Their curated selection of hotels is unmatched." },
+    { id: 2, name: "Sheryansh Tiwari", address: "Ghazipur, UP", image: person2, rating: 4, review: "QuickStay exceeded my expectations. The booking process was seamless, and the hotels were absolutely top-notch. Highly recommended!" },
+    { id: 3, name: "Shiksha Vishwakarma", address: "Agra, UP", image: person3, rating: 5, review: "Amazing service! I always find the best luxury accommodations through QuickStay. Their recommendations never disappoint!" }
 ];
 
 // Facility Icon
